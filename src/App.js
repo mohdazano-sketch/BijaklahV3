@@ -370,7 +370,7 @@ const LEVELS = [
   },
   {
     id: 6,
-    subject: 'matematik',
+    subject: 'matematik', 
     tahun: 1,
     dskpRef: 'Matematik Tahun 1 · SK 6.1.1 Perbendaharaan Kata Ukuran Panjang',
     verified: true, // diaudit terhadap DSKP Matematik Tahun 1 (Mei 2015); gantikan topik bentuk 2D yang bertindih dengan Peringkat 7
